@@ -19,7 +19,7 @@ Um gerador de senhas interativo escrito em Go, focado em simplicidade e seguran√
 
 1. **Clone o reposit√≥rio**:
    ```bash
-   git clone <url-do-repositorio>
+   git clone (https://github.com/JeanVitorDSL/password-cli.git)
    cd password-cli
    ```
 
